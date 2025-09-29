@@ -18,9 +18,8 @@ after:<br>
 
  4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
 
-    <br> jawaban : ID lebih spesifik dan punya bobot lebih ketimbang class yang hasilnya menampilkan textnya berwarna merah
-    <br> contoh bisa di gabung dengan css ini : <br>#paragraf-1 { color: red; }   
-.text-paragraf { color: blue; }
+    <br> jawaban : yang akan di tampilkan adalah ID karna ID lebih spesifik dan punya bobot lebih ketimbang class yang hasilnya menampilkan textnya berwarna merah
+    
 ------------------------------------------------------
 1. Membuat dokumen HTML<br>
 membuat kerangka dokumen seperti foto di bawah<br>
